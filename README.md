@@ -1,6 +1,6 @@
 # Loan-Repayment-and-Credit-Risk-Analysis
-<img width="594" height="338" alt="image" src="https://github.com/user-attachments/assets/1b41cd8e-eb69-43ab-89f4-f36abc8c6e65" />
-<img width="605" height="335" alt="image" src="https://github.com/user-attachments/assets/1c8561ed-ecea-42db-b8fd-6d97f2287619" />
+<img width="601" height="333" alt="image" src="https://github.com/user-attachments/assets/b67b63ac-71cf-4b0f-98f4-84c271e7ebd1" />
+<img width="617" height="332" alt="image" src="https://github.com/user-attachments/assets/9b662898-630f-4e3e-a79f-f9986f8fccc3" />
 
 ## Answers and Key Findings
 
