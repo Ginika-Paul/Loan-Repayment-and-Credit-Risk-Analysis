@@ -4,7 +4,7 @@
 
 ## Answers and Key Findings
 
-1. It was observed that **79.99% of loans were paid back**, while **20.01% of loans were not paid back**.
+1. It was observed that **80% of loans were paid back**, while **20% of loans were not paid back**.
 
 2. It was also observed that borrowers' performance varies among loan grades A, B, C, D, E, and F. People with loan grades A to C have repayment rates greater than 80%, while people with loan grades D, E, and F have repayment rates lower than 80%. The lowest grade, F, has a repayment rate of 67.57%. This shows that borrowers with better loan grades tend to have higher repayment rates.
 
@@ -22,7 +22,7 @@
 
 ## Recommendations
 
-My recommendation is for lenders to consider debt-to-income ratios, credit scores, loan grades, age, employment status, and delinquency history when assessing borrowers' risk. These factors can help lenders identify borrowers who may have difficulty repaying loans and make better-informed lending decisions.
+My recommendation is for lenders to consider age alongside debt-to-income ratios, credit scores, loan grades,employment status, and delinquency history when assessing borrowers' risk. These factors can help lenders identify borrowers who may have difficulty repaying loans and make better-informed lending decisions.
 
 ## Conclusion
 
