@@ -19,10 +19,10 @@
 
 ## Recommendations
 
-My recommendation is for lenders to consider annual income alongside debt-to-income ratios, credit scores, loan grades, and delinquency history when assessing borrowers' risk. These factors can help lenders identify borrowers who may have difficulty repaying loans and make better-informed lending decisions.
+My recommendation is for lenders to consider debt-to-income ratios, credit scores, loan grades, age, employment status, and delinquency history when assessing borrowers' risk. These factors can help lenders identify borrowers who may have difficulty repaying loans and make better-informed lending decisions.
 
 ## Conclusion
 
-This analysis showed that loan repayment performance varies across borrowers based on loan grade, delinquency history, debt-to-income ratio, loan purpose, credit score, and employment status. Among the factors analyzed, debt-to-income ratio showed a clear relationship with repayment performance, as borrowers with higher ratios had lower repayment rates. Credit scores, loan grades, and delinquency history also provided useful insights into borrower risk.
+This analysis showed that loan repayment performance varies across borrowers based on loan grade, age, delinquency history, debt-to-income ratio, loan purpose, credit score, and employment status. Among the factors analyzed, debt-to-income ratio showed a clear relationship with repayment performance, as borrowers with higher ratios had lower repayment rates. Credit scores, loan grades, and delinquency history also provided useful insights into borrower risk.
 
 The findings can help lenders better understand repayment patterns and improve their loan assessment process by considering multiple factors rather than relying on a single factor.
