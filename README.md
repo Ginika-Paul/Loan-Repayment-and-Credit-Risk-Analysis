@@ -1,4 +1,6 @@
 # Loan-Repayment-and-Credit-Risk-Analysis
+<img width="594" height="338" alt="image" src="https://github.com/user-attachments/assets/1b41cd8e-eb69-43ab-89f4-f36abc8c6e65" />
+
 ## Answers and Key Findings
 
 1. It was observed that **79.99% of loans were paid back**, while **20.01% of loans were not paid back**.
